@@ -1,2 +1,2 @@
 singlestoredb
-sqlalchemy>=1.4.0,<2.0.0dev
+sqlalchemy>=2.0.0,<2.1.0
